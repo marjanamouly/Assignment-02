@@ -1,0 +1,23 @@
+table,
+td,
+th{
+    border: 1px solid red;
+    text-align: center;
+    background-color: salmon;
+
+}
+.tableRow{
+    width: 100%;
+}
+section{
+    display: block;
+}
+h2{
+    color: darkgreen;
+}
+p{
+    color: darkmagenta;
+}
+p1{
+    color: brown;
+}
