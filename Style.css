@@ -21,3 +21,9 @@ p{
 p1{
     color: brown;
 }
+h1{
+    color: brown;
+    background-color: burlywood;
+    border-bottom: 10;
+    border-style: inset;
+}
